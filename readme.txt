@@ -1,7 +1,10 @@
-tiny npm module for remove spaces.
-description:
+Tiny npm module for remove spaces.
+
+Description:
   this module is for removing spaces between words.
-installing:
+  
+  
+Installing:
   #node install tashik -g
   
 usage:
@@ -9,7 +12,7 @@ usage:
     var remove_spaces = string("there are alot of spaces , remove it!");
         console.log(remove_spaces);
         
-        //output
-          therearealotofspaces,removeit!
+//output
+Therearealotofspaces,removeit!
           
           
