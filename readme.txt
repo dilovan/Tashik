@@ -5,7 +5,7 @@ Description:
   
   
 Installing:
-  #node install tashik -g
+  # npm install tashik -g
   
 usage:
     var string = require("tashik");
